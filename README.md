@@ -57,20 +57,6 @@ I enjoy working on:
 
 ---
 
-### 📊 GitHub Stats
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=grantik09&show_icons=true&hide_border=true"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grantik09&layout=compact&hide_border=true"/>
-</td>
-</tr>
-</table>
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=grantik09&style=flat-square)
 
 ⭐ *Always learning, building, and contributing.*
