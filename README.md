@@ -1,65 +1,96 @@
-# Hi, I'm Grantik 👋
+# 👋 Hi, I'm Grantik Thingalaya
 
-🚀 Computer Science Engineering Student | 💻 Software & Cloud Enthusiast | 🔐 Cybersecurity Learner  
+🚀 Computer Science Engineering Student | Cloud & Cybersecurity Enthusiast  
+🔐 Interested in Cloud Security, DevOps, and Scalable System Design  
+☁️ AWS | Azure | IAM | Cybersecurity | Full-Stack Projects  
 
-I’m passionate about building **scalable software**, **secure systems**, and **cloud-based applications**.  
-I actively contribute to **open-source projects**, focusing on **real code changes, bug fixes, and feature improvements**.
+---
+
+## 👨‍💻 About Me
+
+I am a **Computer Science Engineering student** with a strong interest in **Cloud Computing, Cybersecurity, and DevOps**.  
+I enjoy building **real-world, production-style projects**, contributing to **open-source**, and continuously improving my problem-solving and system design skills.
+
+I focus on:
+- Secure and scalable cloud architectures  
+- Identity & Access Management (IAM)  
+- Hands-on cybersecurity projects  
+- End-to-end application development  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python, Java, JavaScript, C/C++
+### 💻 Programming & Scripting
+- Python, Java, C#, JavaScript  
+- SQL, Bash  
 
-**Web & Backend**
-- FastAPI, Flask, Node.js, Express
-- REST APIs, Authentication (JWT, OAuth)
+### ☁️ Cloud & DevOps
+- AWS (IAM, EC2, S3, Lambda, API Gateway, DynamoDB, Amplify, Cognito)
+- Azure (Basics)
+- Git & GitHub
+- CI/CD (GitHub Actions – basic)
 
-**Cloud & DevOps**
-- AWS (IAM, EC2, Lambda, DynamoDB, API Gateway, Amplify)
-- Docker, GitHub Actions (CI/CD)
+### 🔐 Cybersecurity
+- IAM (OAuth2, SAML, MFA)
+- Web Security Fundamentals
+- Vulnerability Analysis & Secure Design
+- Zero Trust Concepts
 
-**Cybersecurity**
-- Web Security, OWASP Top 10
-- Authentication & Authorization
-- Secure API Design
-
-**Databases**
-- MySQL, PostgreSQL, MongoDB, DynamoDB
-
----
-
-## 🌍 Open Source Contributions
-
-I actively contribute to open-source projects with **meaningful, code-focused pull requests**.
-
-✔ Bug fixes & enhancements  
-✔ Test coverage improvements  
-✔ Clean, maintainable code  
-✔ PRs with clear problem–solution explanations  
-
-📌 *Selected Contributions:*
-- Fixed functional bugs and edge cases
-- Improved error handling and validation logic
-- Added unit tests to increase reliability
-- Enhanced performance and code readability
-
-> I prioritize **quality merged PRs** over low-effort contributions.
+### 🌐 Web & App Development
+- React / Next.js (Basics)
+- Streamlit
+- REST APIs
+- Three.js (GIS & 3D projects)
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-### 🔐 Cybersecurity Projects
-- **Vulnerable Web App / Cyber Range** – Practice platform for penetration testing  
-- **Zero Trust Access Platform** – OAuth2, SAML, MFA-based access control  
+### 🔐 Zero Trust Access Management Platform
+- OAuth2, SAML & MFA-based authentication system  
+- Secure role-based access control  
+- Designed with enterprise security principles  
 
-### ☁ Cloud Projects
-- **Wild Rydes (AWS)** – Full end-to-end cloud application using 7 AWS services  
-- **Serverless APIs** – Secure, scalable backend systems  
+### ☁️ Wild Rydes – Cloud Web Application (AWS)
+- End-to-end AWS project using **7 AWS services**
+- Authentication with Cognito
+- Serverless backend using Lambda & API Gateway
+- CI/CD integration with GitHub  
 
-### 🤖 AI & ML
-- **Face Recognition & Matching System**
-- **Image Colorization using Deep Learning**
-- **Fraud Detection using ML**
+### 🕵️ Criminal Face Sketch Recognition System
+- AI system that matches hand-drawn sketches with a criminal image database
+- Face feature extraction & similarity matching
+- Web-based UI with secure data handling  
+
+### 📊 Real-Time Security Monitoring Dashboard
+- Pentesting-focused dashboard
+- Red Team vs Blue Team simulation
+- Centralized monitoring & alerts  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AWS & Cloud Architecture  
+- DevSecOps practices  
+- System Design for scalable applications  
+- Open-source contribution workflows  
+
+---
+
+## 🤝 Open Source Contributions
+
+- Actively contributing to open-source projects
+- Focus on **meaningful code contributions**, not just documentation
+- PRs include:
+  - Clear problem statements
+  - Clean and tested solutions
+  - Well-written PR descriptions  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
